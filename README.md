@@ -4,7 +4,7 @@
 - He tomado cursos enfocados a herramientas y lenguajes que me permitan desarrollarme profesionalmente.
 
 - ¿Qué tecnologias y herramientas uso?
-- Python(numpy, pandas, sckilearn,matplotlib),MySql,Sql Server,Mongo DB,Git,Postman,Anaconda,Spyder,Jupyter,Docker,Hdfs,Visual Studio Code,Microsoft Integration Services,Microsoft Reporting Services
+- Python(sckilearn,pandas,folium,matplotlib,numpy),MySql,Sql Server,Mongo DB,Git,Postman,Anaconda,Spyder,Jupyter,Docker,Hdfs,Visual Studio Code,Microsoft Integration Services,Microsoft Reporting Services
 ,Microsoft Analisys Services,Kibana,C#,Visual Studio en sus diferentes versiones (2003 - 2022)
 
 
