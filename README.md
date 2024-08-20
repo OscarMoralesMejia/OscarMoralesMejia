@@ -6,11 +6,11 @@
 - Python(scikit-learn,pandas,folium,matplotlib,numpy),MySql,Sql Server,Mongo DB,Git,Postman,Anaconda,Spyder,Jupyter,Docker,Hdfs,Visual Studio Code,Microsoft Integration Services,Microsoft Reporting Services
 ,Microsoft Analisys Services,Kibana,C#,Visual Studio en sus diferentes versiones (2003 - 2022)
 
-### Cuál es mi pasión
+### ¿Cuál es mi pasión?
 
 - :boom: Resolver problemas, investigar, aprender y vivir la vida.
 
-:zap: *Logros importantes*
+### :zap: Logros importantes
 
 - El último proyecto en el que participe tuve que aplicar la libreria Folium en un proyecto web, lo cuál represento horas de investigación.
 
