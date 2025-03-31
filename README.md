@@ -12,7 +12,7 @@
 
 ### :zap: Logros importantes
 
-- El último proyecto en el que participe tuve que aplicar la libreria Folium y Selenium en un proyecto web, lo cuál me represento horas de investigación.
+- El último proyecto en el que participe tuve que aplicar la libreria Folium y Selenium, lo cuál me represento horas de investigación las cuales disfrute.
 
 ### Intereses
 - Interesado en algoritmos de machine learning, ingenieria en datos usando spark y la nube
